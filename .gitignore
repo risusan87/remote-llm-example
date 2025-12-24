@@ -3,3 +3,7 @@
 
 # python
 __pycache__/
+
+# miscellaneous
+webui/
+*.sh
